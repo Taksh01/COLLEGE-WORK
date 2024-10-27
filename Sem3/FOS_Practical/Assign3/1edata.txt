@@ -1,0 +1,4 @@
+101|John Doe|New York|60000
+102|Jane Smith|Los Angeles|72000
+103|Michael Lee|Chicago|55000
+104|Emily Davis|Houston|63000

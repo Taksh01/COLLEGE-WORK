@@ -1,0 +1,4 @@
+
+
+echo "Diplay all the Records starting with 'P' character."
+ awk '$2 ~ /^P/' 13data.txt

@@ -1,0 +1,21 @@
+total 0
+-rwxrwxrwx 1 takshshah takshshah  587 Aug  4 11:01 1.sh
+-rwxrwxrwx 1 takshshah takshshah  215 Aug  4 13:04 11.sh
+-rwxrwxrwx 1 takshshah takshshah  235 Aug  4 13:57 12.sh
+-rwxrwxrwx 1 takshshah takshshah  130 Aug  4 14:27 13.sh
+-rwxrwxrwx 1 takshshah takshshah  137 Aug  4 14:30 15.sh
+-rwxrwxrwx 1 takshshah takshshah  122 Aug  4 14:38 16.sh
+-rwxrwxrwx 1 takshshah takshshah  332 Aug  4 15:02 17.sh
+-rwxrwxrwx 1 takshshah takshshah  129 Aug  4 15:22 18.sh
+-rwxrwxrwx 1 takshshah takshshah  358 Aug  4 15:42 19.sh
+-rwxrwxrwx 1 takshshah takshshah  241 Aug  4 11:16 2.sh
+-rwxrwxrwx 1 takshshah takshshah  128 Aug  4 14:43 20.sh
+-rwxrwxrwx 1 takshshah takshshah  293 Aug  4 11:31 3.sh
+-rwxrwxrwx 1 takshshah takshshah  253 Aug  4 12:26 4.sh
+-rwxrwxrwx 1 takshshah takshshah  124 Aug  4 11:58 5.sh
+-rwxrwxrwx 1 takshshah takshshah  132 Aug  4 12:37 7.sh
+-rwxrwxrwx 1 takshshah takshshah  332 Aug  4 12:49 8.sh
+-rwxrwxrwx 1 takshshah takshshah  231 Aug  4 12:54 9.sh
+-rwxrwxrwx 1 takshshah takshshah    0 Aug  4 15:42 File_list.txt
+-rwxrwxrwx 1 takshshah takshshah   10 Aug  4 15:02 First_Shell.txt
+drwxrwxrwx 1 takshshah takshshah 4096 Aug  4 15:21 q18directory

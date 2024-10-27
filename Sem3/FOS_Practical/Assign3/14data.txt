@@ -1,0 +1,5 @@
+Apple 20 $1.50
+Banana 20 $1.50
+Mangoes 20 $1.50
+watermelon 20 $1.50
+

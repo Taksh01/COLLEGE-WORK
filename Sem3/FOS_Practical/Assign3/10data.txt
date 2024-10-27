@@ -1,0 +1,7 @@
+
+101 Alice NewYork 85
+102 Bob Boston 90
+103 Charlie Austin 78
+104 David Miami 88
+105 Emma Seattle 92
+106 Frank Denver 80
