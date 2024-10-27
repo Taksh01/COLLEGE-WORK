@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE book_detail SYSTEM "5external.dtd">
+	<book_detail>
+		<Books>
+			<book title="XML">The Art of War</book>
+			<author>Sao Ten Zung</author>
+			<year>2005</year>
+			<publisher>Readdit</publisher>
+		</Books>
+		
+		<Books>
+			<book title="DCN">5AM Club</book>
+			<author>Robin Parikh</author>
+			<year>2015</year>
+			<publisher>Jaico</publisher>
+		</Books>
+	</book_detail>

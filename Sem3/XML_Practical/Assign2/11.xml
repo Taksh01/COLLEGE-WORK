@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE studdetails SYSTEM "11external.dtd">
+<studdetails>
+<Student>
+    <StudentName>John Doe</StudentName>
+    <PersonalInfo>
+        <Address>Jaipur</Address>
+        <Birthdate>01/05/2004</Birthdate>
+        <Gender>
+        <Male></Male>
+        </Gender>
+        <MobileNo>1234567890</MobileNo>
+    </PersonalInfo>
+</Student>
+
+<Student>
+    <StudentName>John Doe</StudentName>
+    <PersonalInfo>
+        <Address>Jaipur</Address>
+        <Birthdate>01/05/2004</Birthdate>
+        <Gender>
+        <Male></Male>
+        </Gender>
+        <MobileNo>1234567890</MobileNo>
+    </PersonalInfo>
+</Student>
+
+</studdetails>

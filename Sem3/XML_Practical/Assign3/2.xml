@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<menu>
+<food_details>
+	<Starter>
+		<soup></soup>
+	</Starter>
+	<mainCourse>
+		<vegLunch></vegLunch>
+	</mainCourse>
+	<Dessert>
+		<iceCream></iceCream>
+	</Dessert>
+</food_details>
+
+<food_details>
+	<Starter>
+		<soup></soup>
+	</Starter>
+	<mainCourse>
+		<vegLunch></vegLunch>
+	</mainCourse>
+	<Dessert>
+		<iceCream></iceCream>
+	</Dessert>
+</food_details>
+
+<food_details>
+	<Starter>
+		<soup></soup>
+	</Starter>
+	<mainCourse>
+		<vegLunch></vegLunch>
+	</mainCourse>
+	<Dessert>
+		<iceCream></iceCream>
+	</Dessert>
+</food_details>
+</menu>

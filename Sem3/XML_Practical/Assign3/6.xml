@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<details>
+		<employee>
+			<name>Vani</name>
+			<number>001</number>
+			<designation>Head Executive</designation>
+			<salary>10000</salary>
+		</employee>
+		<employee>
+			<name>Vani</name>
+			<number>001</number>
+			<designation>Head Executive</designation>
+			<salary>10000</salary>
+		</employee>
+	</details>
+	

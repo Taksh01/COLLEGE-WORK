@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+	<stud_details>
+			<Student>
+				<name>
+					<fname>Riya</fname>
+					<lname>Rao</lname>
+				</name>
+				<id>001</id>
+				<plan>
+					<courses year="2005">
+						<course>
+						<name>Bachelors in Computer Applications</name>
+						<shortName>BCA</shortName>
+						<record>
+							<grade>A+</grade>
+							<date>06/01/2005</date>
+						</record>
+						</course>
+					</courses>
+
+				</plan>
+				
+			</Student>
+	
+			<Student>
+				<name>
+					<fname>Kriya</fname>
+					<lname>Dseuza</lname>
+				</name>
+				<id>005</id>
+				<plan>
+					<courses year="2005">
+						<course>
+						<name>Bachelors in Computer Applications</name>
+						<shortName>BCA</shortName>
+						<record>
+							<grade>B+</grade>
+							<date>06/01/2005</date>
+						</record>
+						</course>
+					</courses>
+				</plan>
+			</Student>
+	</stud_details>

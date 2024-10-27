@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element name="stud_details">
+	<xsd:complexType>
+	<xsd:sequence>
+		<xsd:element name="student" type="studentType" maxOccurs="unbounded"/>
+	</xsd:sequence>
+	</xsd:complexType>
+</xsd:element>
+
+<xsd:complexType name="studentType">
+	<xsd:sequence>
+		<xsd:element name="firstname" type="xsd:string"></xsd:element>
+		<xsd:element name="lastname" type="xsd:string"></xsd:element>
+		<xsd:element name="address" type="xsd:string"></xsd:element>
+		<xsd:element name="percentage" type="xsd:string"></xsd:element>
+		<xsd:element name="year" type="xsd:integer"></xsd:element>
+	</xsd:sequence>
+</xsd:complexType>
+</xsd:schema>
+

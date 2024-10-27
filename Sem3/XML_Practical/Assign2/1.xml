@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE student SYSTEM "1external.dtd">
+<student>
+    <personalInfo>
+        <rollNo>12345</rollNo>
+        <name>Rohit Pandya</name>
+        <address>Springfield</address>
+        <mobile>1234567890</mobile>
+        <dob>01/01/2000</dob>
+        <age>24</age>
+        <qualification>Bachelor of Science</qualification>
+    </personalInfo>
+    
+	<personalInfo>
+        <rollNo>123</rollNo>
+        <name>Rohit </name>
+        <address>Springfield</address>
+        <mobile>1234567890</mobile>
+        <dob>01-01-2000</dob>
+        <age>24</age>
+        <qualification>Bachelor of Arts</qualification>
+	</personalInfo>
+</student>

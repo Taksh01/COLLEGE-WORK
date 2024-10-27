@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<details>
+	<vendor>
+		<venderName>Laksh</venderName>
+		<personalInfo>
+			<address>102,RamRoy</address>
+			<birtdate>12</birtdate>
+			<gender>Male</gender>
+			<address>Mumbai</address>
+			<pincode>490006</pincode>
+		</personalInfo>
+	</vendor>
+	
+	<vendor>
+		<venderName>Laksh</venderName>
+		<personalInfo>
+			<address>102,RamRoy</address>
+			<birtdate>12</birtdate>
+			<gender>Male</gender>
+			<address>Mumbai</address>
+			<pincode>490006</pincode>
+		</personalInfo>
+	</vendor>
+</details>

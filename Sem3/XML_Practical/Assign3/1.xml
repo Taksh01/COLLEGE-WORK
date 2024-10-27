@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<stud_details>
+<student>
+		<firstname>Taksh</firstname>
+		<lastname>Shah</lastname>
+		<address>Mumbai</address>
+		<percentage>82</percentage>
+		<year>2024</year>
+</student>
+<student>
+		<firstname>Taksh</firstname>
+		<lastname>Shah</lastname>
+		<address>Mumbai</address>
+		<percentage>82</percentage>
+		<year>2024</year>
+</student>	
+<student>
+		<firstname>Taksh</firstname>
+		<lastname>Shah</lastname>
+		<address>Mumbai</address>
+		<percentage>82</percentage>
+		<year>2024</year>
+</student>	
+</stud_details>

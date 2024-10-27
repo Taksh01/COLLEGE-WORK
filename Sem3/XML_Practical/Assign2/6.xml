@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE stud_details SYSTEM "6external.dtd">
+	<stud_details>
+			<Student>
+				<Name>
+					<fname>Riya</fname>
+					<lname>Rao</lname>
+				</Name>
+				<id>001</id>
+				<plan>
+					<courses year="2005">
+						<course>
+						<name>Bachelors in Computer Applications</name>
+						<shortName>BCA</shortName>
+						<record>
+							<grade>A+</grade>
+							<date>06/01/2005</date>
+						</record>
+						</course>
+					</courses>
+
+				</plan>
+				
+			</Student>
+	
+			<Student>
+				<Name>
+					<fname>Kriya</fname>
+					<lname>Dseuza</lname>
+				</Name>
+				<id>005</id>
+				<plan>
+					<courses year="2005">
+						<course>
+						<name>Bachelors in Computer Applications</name>
+						<shortName>BCA</shortName>
+						<record>
+							<grade>B+</grade>
+							<date>06/01/2005</date>
+						</record>
+						</course>
+					</courses>
+				</plan>
+			</Student>
+	</stud_details>

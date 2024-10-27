@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee>
+        <EmployeeName>John Doe</EmployeeName>
+        <EmpId>EMP123</EmpId>
+        <Salary>50000</Salary>
+        <Designation>Software Engineer</Designation>
+        <Address>123 Main St, Springfield</Address>
+        <Zipcode>123456</Zipcode>
+        <Mobile>9876543210</Mobile>
+    </Employee>
+    <Employee>
+        <EmployeeName>Jane Smith</EmployeeName>
+        <EmpId>EMP456</EmpId>
+        <Salary>60000</Salary>
+        <Designation>Project Manager</Designation>
+        <Address>456 Elm St, Springfield</Address>
+        <Zipcode>123457</Zipcode>
+        <Mobile>9123456780</Mobile>
+    </Employee>
+</Employees>

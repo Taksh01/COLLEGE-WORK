@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<details>
+<salesPerson>
+		<name>Loy</name>
+		<buisnessInfo>
+			<company>Meta</company>
+			<dept>Sales</dept>
+			<manager>Roy</manager>
+			<phoneNo>11234567789</phoneNo>
+			<email>xyz@gmail.com</email>
+		</buisnessInfo>
+		<personalInfo>
+			<phoneNo>1123456788</phoneNo>
+			<address>Chennai</address>
+		</personalInfo>
+</salesPerson>
+	
+<salesPerson>
+		<name>Loy</name>
+		<buisnessInfo>
+			<company>Meta</company>
+			<dept>Sales</dept>
+			<manager>Roy</manager>
+			<phoneNo>11234567789</phoneNo>
+			<email>xyz@gmail.com</email>
+		</buisnessInfo>
+		<personalInfo>
+			<phoneNo>1123456788</phoneNo>
+			<address>Chennai</address>
+		</personalInfo>
+</salesPerson>
+	
+<salesPerson>
+		<name>Loy</name>
+		<buisnessInfo>
+			<company>Meta</company>
+			<dept>Operation</dept>
+			<manager>Roy</manager>
+			<phoneNo>11234567789</phoneNo>
+			<email>xyz@gmail.com</email>
+		</buisnessInfo>
+		<personalInfo>
+			<phoneNo>1123456788</phoneNo>
+			<address>Chennai</address>
+		</personalInfo>
+</salesPerson>
+</details>

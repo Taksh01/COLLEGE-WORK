@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<aboutItems>
+		<name>xyz</name>
+		<category>
+			<veg>Bread</veg>
+		</category>
+		<companyInfo>
+			<phoneno>1234567890</phoneno>
+			<address>Ambli</address>
+		</companyInfo>
+	</aboutItems>
+	
+		<aboutItems>
+		<name>xyz</name>
+		<category>
+			<veg>Chips</veg>
+		</category>
+		<companyInfo>
+			<phoneno>1234567890</phoneno>
+			<address>Ambli</address>
+		</companyInfo>
+	</aboutItems>
+</items>

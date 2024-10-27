@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element name="college_details">
+<xsd:complexType>
+<xsd:sequence>
+	<xsd:element name="college" maxOccurs="unbounded">
+		<xsd:complexType>
+		<xsd:sequence>
+		
+		<xsd:element name="courseName" >
+		<xsd:complexType>
+		<xsd:simpleContent>
+		<xsd:extension base="xsd:string">
+		<xsd:attribute name="courseID" type="xsd:string"></xsd:attribute>
+		</xsd:extension>
+		</xsd:simpleContent>
+		</xsd:complexType>
+		</xsd:element>
+		
+		<xsd:element name="sub" maxOccurs="unbounded">
+		<xsd:complexType>
+		<xsd:simpleContent>
+		<xsd:extension base="xsd:string">
+		<xsd:attribute name="subID" type="xsd:integer"></xsd:attribute>
+		</xsd:extension>
+		</xsd:simpleContent>
+		</xsd:complexType>
+		</xsd:element>
+		
+		<xsd:element name="sem">
+		<xsd:simpleType>
+		<xsd:restriction base="xsd:integer">
+		<xsd:enumeration value="1"></xsd:enumeration>
+		<xsd:enumeration value="3"></xsd:enumeration>
+		<xsd:enumeration value="5"></xsd:enumeration>
+		</xsd:restriction>
+		</xsd:simpleType>
+		</xsd:element>
+		
+		<xsd:element name="contact">
+		<xsd:simpleType>
+		<xsd:restriction base="xsd:string">
+		<xsd:maxLength value="10"/>
+		<xsd:minLength value="10"/>
+		</xsd:restriction>
+		</xsd:simpleType>
+		</xsd:element>
+		
+		<xsd:element name="address" type="xsd:string" maxOccurs="2" minOccurs="2"></xsd:element>
+		<xsd:element name="zipcode" type="xsd:string"></xsd:element>
+		<xsd:element name="email">
+		<xsd:simpleType>
+		<xsd:restriction base="xsd:string">
+		<xsd:pattern value="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9._%+-]+\.[a-zA-Z]{2,}"></xsd:pattern>
+		</xsd:restriction>
+		</xsd:simpleType>
+		</xsd:element>
+		</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

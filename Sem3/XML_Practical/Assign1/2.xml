@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Students>
+        <PersonalInfo>
+            <RollNo>12345</RollNo>
+            <Name>Rahul Sharma</Name>
+            <Address>12 MG Road</Address>
+            <Mobile>1234567890</Mobile>
+            <DOB>2000-01-01</DOB>
+            <Age>24</Age>
+            <Qualification>Bachelor of Science</Qualification>
+        </PersonalInfo>
+
+        <PersonalInfo>
+            <RollNo>67890</RollNo>
+            <Name>Anjali Patel</Name>
+            <Address>34 SV Road</Address>
+            <Mobile>1234567890</Mobile>
+            <DOB>1999-05-15</DOB>
+            <Age>25</Age>
+            <Qualification>Master of Arts</Qualification>
+        </PersonalInfo>
+
+
+        <PersonalInfo>
+            <RollNo>11223</RollNo>
+            <Name>Sneha Gupta</Name>
+            <Address>56 JL Nehru Road</Address>
+            <Mobile>1234567890</Mobile>
+            <DOB>2001-08-25</DOB>
+            <Age>22</Age>
+            <Qualification>Doctor of Philosophy</Qualification>
+        </PersonalInfo>
+
+</Students>

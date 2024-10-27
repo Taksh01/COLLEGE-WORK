@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<college_details>
+
+<college>
+	<courseName courseID="101">BCA</courseName>
+	<sub subID="121">Java</sub>
+	<sub subID="121">Java</sub>
+	<sub subID="121">Java</sub>
+	<sem>5</sem>
+	<contact>1234567891</contact>
+	<address>Mumbai</address>
+	<address>Mumbai</address>
+	<zipcode>480006</zipcode>
+	<email>shah@gmail.com</email>
+</college>
+
+
+<college>
+	<courseName courseID="101">BCA</courseName>
+	<sub subID="121">Java</sub>
+	<sem>3</sem>
+	<contact>1234567890</contact>
+	<address>Mumbai</address>
+	<address>Mumbai</address>
+	<zipcode>480006</zipcode>
+	<email>shah@gmail.com</email>
+</college>
+
+</college_details>

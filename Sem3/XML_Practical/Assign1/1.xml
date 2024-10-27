@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<stud>
+	<student>
+	<studentname>
+		Karan
+	</studentname>
+	<personalinfo>
+	<address>Paldi</address>
+	<birthdate>12/12/1996</birthdate>
+	<gender>Male</gender>
+	<mobileno>123456891</mobileno>
+	<address>Mumbai</address>
+	</personalinfo>
+	<result>
+	<total>800</total>
+	<percentage>45</percentage>
+	<grade>D</grade>
+	</result>
+	</student>
+	
+	<student>
+	<studentname>
+		Revti
+	</studentname>
+	<personalinfo>
+	<address>Parimal</address>
+	<birthdate>12/12/2005</birthdate>
+	<gender>Female</gender>
+	<mobileno>123456891</mobileno>
+	<address>Mumbai</address>
+	</personalinfo>
+	<result>
+	<total>800</total>
+	<percentage>55</percentage>
+	<grade>C</grade>
+	</result>
+	</student>
+</stud>

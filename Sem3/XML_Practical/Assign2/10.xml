@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE Student_info SYSTEM "10external.dtd">
+<Student_info>
+		<person>
+		<Student which_course="C101" contactno="1234567898">
+			<name>Vaman</name>
+			<contact_no>1234567890</contact_no>
+		</Student>
+		
+		<grade>A++</grade>
+		
+		<Course c_id="C101">
+			<cname>CA</cname>
+		</Course>
+		
+		<subject name="OS"></subject>
+		</person>
+		
+		<person>
+		<Student which_course="C101" contactno="1234567898">
+			<name>Vaman</name>
+			<contact_no>1234567890</contact_no>
+		</Student>
+			
+				<grade>A++</grade>
+				
+		<Course c_id="C101">
+			<cname>CA</cname>
+		</Course>
+		
+		<subject name="Java">
+		</subject>
+		</person>
+	</Student_info>

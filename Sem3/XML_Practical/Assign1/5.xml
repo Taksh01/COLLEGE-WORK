@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<book_detail>
+		<Books>
+			<book title="war">The Art of War</book>
+			<author>Sao Ten Zung</author>
+			<year>2005</year>
+			<publisher>Readdit</publisher>
+		</Books>
+		
+		<Books>
+			<book title="mindset">5AM Club</book>
+			<author>Robin Parikh</author>
+			<year>2015</year>
+			<publisher>Jaico</publisher>
+		</Books>
+	</book_detail>

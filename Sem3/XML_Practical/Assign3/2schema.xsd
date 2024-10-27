@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+<xsd:element name="menu">
+	<xsd:complexType>
+	<xsd:sequence>
+		<xsd:element name="food_details" type="food" maxOccurs="unbounded"></xsd:element>
+	</xsd:sequence>
+	</xsd:complexType>
+</xsd:element>
+
+<xsd:complexType name="food">
+<xsd:sequence>
+	<xsd:element name="Starter" type="c1"></xsd:element>
+	<xsd:element name="mainCourse" type="c2"></xsd:element>
+	<xsd:element name="Dessert" type="c3"></xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="c1">
+<xsd:choice>
+	<xsd:element name="soup" type="xsd:string"></xsd:element>
+	<xsd:element name="juice" type="xsd:string"></xsd:element>
+</xsd:choice>
+</xsd:complexType>
+
+<xsd:complexType name="c2">
+<xsd:choice>
+	<xsd:element name="vegLunch" type="xsd:string"></xsd:element>
+	<xsd:element name="nonvegLunch" type="xsd:string"></xsd:element>
+</xsd:choice>
+</xsd:complexType>
+
+<xsd:complexType name="c3">
+<xsd:choice>
+	<xsd:element name="iceCream" type="xsd:string"></xsd:element>
+	<xsd:element name="fruitSalad" type="xsd:string"></xsd:element>
+</xsd:choice>
+</xsd:complexType>
+
+</xsd:schema>

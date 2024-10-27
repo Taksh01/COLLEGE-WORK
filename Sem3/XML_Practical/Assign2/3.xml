@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE Orders [
+    <!ELEMENT Orders (OrderDetail+)>
+    <!ELEMENT OrderDetail (OrderNumber, Orderrate,OrderAmount?, ItemPrice*,ItemName+, Quantity*)>
+    <!ELEMENT OrderNumber (#PCDATA)>
+    <!ATTLIST OrderNumber OrderDate CDATA #REQUIRED>
+    <!ELEMENT Orderrate (#PCDATA)>
+    <!ELEMENT OrderAmount (#PCDATA)>
+    <!ELEMENT ItemPrice (#PCDATA)>
+    <!ELEMENT ItemName (#PCDATA)>
+    <!ELEMENT Quantity (#PCDATA)>
+]>
+<Orders>
+    <OrderDetail>
+        <OrderNumber OrderDate="2024-07-20">12345</OrderNumber>
+        <Orderrate>4500</Orderrate>
+        <OrderAmount>250.00</OrderAmount>
+        <ItemPrice>50.00</ItemPrice>
+        <ItemPrice>200.00</ItemPrice>        
+        <ItemName>Widget A</ItemName>
+        <ItemName>Widget B</ItemName>
+        <Quantity>2</Quantity>
+        <Quantity>1</Quantity>
+    </OrderDetail>
+    
+    <OrderDetail>
+        <OrderNumber OrderDate="2024-07-21">67890</OrderNumber>
+        <Orderrate>4500</Orderrate>
+        <OrderAmount>150.00</OrderAmount>
+        <ItemPrice>75.00</ItemPrice>
+        <ItemPrice>75.00</ItemPrice>
+        <ItemName>Gadget X</ItemName>
+        <ItemName>Gadget Y</ItemName>
+        <Quantity>1</Quantity>
+        <Quantity>2</Quantity>
+    </OrderDetail>
+</Orders>
+

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE stud_details SYSTEM "4external.dtd">
+<stud_details>
+<Student>
+    <StudentName>John Doe</StudentName>
+    <PersonalInfo>
+        <Address>Jaipur</Address>
+        <Birthdate>01/05/2004</Birthdate>
+        <Gender>
+        <Male></Male>
+        </Gender>
+        <MobileNo>1234567890</MobileNo>
+    </PersonalInfo>
+    <Result>
+        <Total>450</Total>
+        <Percentage>90%</Percentage>
+        <Grade>
+        <Dist.></Dist.>
+
+        </Grade>
+    </Result>
+</Student>
+
+
+<Student>
+    <StudentName>Jane Smith</StudentName>
+    <PersonalInfo>
+        <Address>Jaipur</Address>
+        <Birthdate>02-02-1999</Birthdate>
+        <Gender>
+        <Female></Female>
+        </Gender>
+        <MobileNo>9876543210</MobileNo>
+    </PersonalInfo>
+    <Result>
+        <Total>400</Total>
+        <Percentage>80%</Percentage>
+        <Grade>
+        	<First></First>
+        </Grade>
+    </Result>
+</Student>
+</stud_details>

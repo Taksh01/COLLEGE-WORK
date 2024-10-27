@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+	<email_details>
+		<Email>
+			<from>Shah</from>
+			<to>Patel</to>
+			<content>
+				<person>abcd</person>
+				<exercises>
+					<exrecise>
+						<topic>Meeting Notes</topic>
+						<description>Notes for future refrences</description>
+					</exrecise>
+				</exercises>
+			</content>
+			<course>imscit</course>
+		</Email>
+		
+		<Email>
+			<from>Mejhtas</from>
+			<to>Patel</to>
+			<content>
+				<person>xyzw</person>
+				<exercises>
+					<exrecise>
+						<topic>Meeting Notes</topic>
+						<description>Notes for future refrences</description>
+					</exrecise>
+				</exercises>
+			</content>
+			<course>imca</course>
+		</Email>
+	</email_details>

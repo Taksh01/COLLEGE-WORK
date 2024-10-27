@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xsd:element name="stud_details">
+	<xsd:complexType>
+	<xsd:sequence>
+		<xsd:element name="student" type="stud"  maxOccurs="unbounded"></xsd:element>
+	</xsd:sequence>
+	</xsd:complexType>
+</xsd:element>
+
+<xsd:complexType name="stud">
+<xsd:sequence>
+	<xsd:element name="studentName" type="xsd:string"></xsd:element>
+	<xsd:element name="personalInfo" type="pinfo"></xsd:element>
+	<xsd:element name="result" type="rinfo"></xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="pinfo">
+<xsd:sequence>
+	<xsd:element name="address" type="xsd:string"></xsd:element>
+	<xsd:element name="birthDate" type="xsd:string"></xsd:element>
+	<xsd:element name="gender" type="xsd:string"></xsd:element>
+	<xsd:element name="mobileNo">
+		<xsd:simpleType>
+			<xsd:restriction base="xsd:string">
+				<xsd:maxLength value="10"></xsd:maxLength>
+			</xsd:restriction>
+		</xsd:simpleType>
+	</xsd:element>
+	<xsd:element name="address" type="xsd:string"></xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="rinfo">
+<xsd:sequence>
+	<xsd:element name="total" type="xsd:integer"></xsd:element>
+	<xsd:element name="percentage" type="xsd:integer"></xsd:element>
+	<xsd:element name="grade" type="xsd:string"></xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:schema>

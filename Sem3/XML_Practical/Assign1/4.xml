@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Emails>
+    <Email>
+        <Message 
+        	from="john.doe@example.com" 
+        	to="jane.smith@example.com" 
+        	subject="Meeting Reminder">
+            John Doe
+        </Message>
+    </Email>
+    
+    <Email>
+        <Message 
+        	from="alice.brown@example.com" 
+        	to="bob.jones@example.com" 
+        	subject="Project Update">
+            Alice Brown
+        </Message>
+    </Email>
+    
+    <Email>
+        <Message from="carol.white@example.com" 
+        	to="david.green@example.com" 
+        	subject="Invoice Attached">
+            Carol White
+        </Message>
+    </Email>
+    
+</Emails>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<library>
+	<book>
+	<title>The art of happiness</title>
+	<price>510</price>
+	</book>
+	
+	<book>
+	<title>The art of never crying</title>
+	<price>110</price>
+	</book>
+</library>

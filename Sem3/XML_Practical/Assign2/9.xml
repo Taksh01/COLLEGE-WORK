@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE details SYSTEM "9external.dtd">
+	<details>
+		
+		<letter>
+			<contact type="sender">
+				<name>Karan</name>
+				<address>Bandra</address>
+				<city>Mumbai</city>
+				<pin>100011</pin>
+				<state>Leh</state>
+				<flag gender="female"></flag>
+			</contact>
+			
+			<salutation>Good Day</salutation>
+			<paragraph>one</paragraph>
+			<closing>Thanks</closing>
+			<signature>XYZ</signature>
+		</letter>
+		
+		<letter>
+			<contact type="sender">
+				<name>Naksh</name>
+				<address>Paldi</address>
+				<city>Mumbai</city>
+				<pin>100008</pin>
+				<state>Leh</state>
+				<flag gender="male"></flag>
+			</contact>
+			
+			<salutation>Good Afternoon</salutation>
+			<paragraph>two</paragraph>
+			<closing>Thanks</closing>
+			<signature>XYZ</signature>
+		</letter>
+
+	</details>
+	

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<OrderDetails>
+    <OrderDetail>
+        <OrderNumber>1001</OrderNumber>
+        <OrderDate>2024-07-19</OrderDate>
+        <OrderAmount>1500.00</OrderAmount>
+        <ItemPrice>500.00</ItemPrice>
+		<ItemName>Smartphone</ItemName>
+		<Quantity>2</Quantity>
+    </OrderDetail>
+    
+    <OrderDetail>
+        <OrderNumber>1002</OrderNumber>
+        <OrderDate>2024-07-20</OrderDate>
+        <OrderAmount>800.00</OrderAmount>
+        <ItemPrice>400.00</ItemPrice>    
+  		<ItemName>Tablet</ItemName>
+		<Quantity>2</Quantity>
+    </OrderDetail>
+    
+    <OrderDetail>
+        <OrderNumber>1003</OrderNumber>
+        <OrderDate>2024-07-21</OrderDate>
+        <OrderAmount>1200.00</OrderAmount>
+        <ItemName>Laptop</ItemName>
+        <ItemPrice>1200.00</ItemPrice>
+        <Quantity>1</Quantity>
+    </OrderDetail>
+    
+</OrderDetails>

@@ -1,0 +1,13 @@
+<!ELEMENT Student_info (person*)>
+<!ELEMENT person (Student+,grade,Course,subject)>
+<!ELEMENT Student  (name, contact_no)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT contact_no (#PCDATA)>
+<!ATTLIST Student which_course IDREF #REQUIRED>
+<!ATTLIST Student contactno NMTOKEN #REQUIRED>
+<!ELEMENT grade (#PCDATA)>
+<!ELEMENT Course (cname)>
+<!ATTLIST Course c_id ID #REQUIRED>
+<!ELEMENT cname (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ATTLIST subject name (Java|xml|OS) #REQUIRED>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE Email [
+    <!ELEMENT Email (message+)>
+    <!ELEMENT message (#PCDATA)>
+    <!ATTLIST message from CDATA #REQUIRED>
+    <!ATTLIST message to CDATA #REQUIRED>
+	<!ATTLIST message subject CDATA #REQUIRED>
+    ]>
+<Email>
+    <message from="alice@example.com" to="bob@example.com" subject="Meeting">HI</message>
+    <message from="bob@example.com" to="alice@example.com" subject="Project">HI </message>
+</Email>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE email_details SYSTEM "7external.dtd">
+	<email_details>
+		<Email>
+			<from>Shah</from>
+			<to>Patel</to>
+			<content>
+				<person>abcd</person>
+				<exercises>
+					<exercise>
+						<topic>Meeting Notes</topic>
+						<description>Notes for future refrences</description>
+					</exercise>
+				</exercises>
+				lananfnf
+			</content>
+			<course>imscit</course>
+		</Email>
+		
+		<Email>
+			<from>Mejhtas</from>
+			<to>Patel</to>
+			<content>
+				<person>xyzw</person>
+				<exercises>
+					<exercise>
+						<topic>Meeting Notes</topic>
+						<description>Notes for future refrences</description>
+					</exercise>
+				</exercises>
+			</content>
+			<course>imca</course>
+		</Email>
+	</email_details>
